@@ -9,7 +9,7 @@
 .u-section-1 .u-image-1 {
   width: 860px;
   height: 860px;
-  background-image: url("images/fg.jpg");
+  background-image: url("fg.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: -300px;
   --animation-custom_in-translate_y: 0px;
@@ -1060,7 +1060,7 @@
   width: 883px;
   height: 883px;
   object-position: 0% 50%;
-  background-image: url("images/222bdd4006666a3b34e77c4e6e55d3cbfa901fc5a35cb18dfa4d9d90aa08fdd6276b0dda840e026fa7028bebc3d6f241368384b56cd9820ca0d4dd_1280.jpg");
+  background-image: url("222bdd4006666a3b34e77c4e6e55d3cbfa901fc5a35cb18dfa4d9d90aa08fdd6276b0dda840e026fa7028bebc3d6f241368384b56cd9820ca0d4dd_1280.jpg");
   background-position: 50% 50%;
   --animation-custom_in-translate_x: 0px;
   --animation-custom_in-translate_y: 300px;
